@@ -1,0 +1,1 @@
+Makes a perfect hash table of cities with the name and assoitiated latitude and longitude
